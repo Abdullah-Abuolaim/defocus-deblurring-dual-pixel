@@ -1,21 +1,38 @@
 # Animated dual-pixel L/R views
-### Canon example 01
+
+### Canon DSLR Camera 01
 ![Canon_01](gif/canon_00.gif)
-### Canon example 02
+##
+
+### Canon DSLR Camera 02
 ![Canon_02](gif/canon_01.gif)
-### Canon example 03
+##
+
+### Canon DSLR Camera 03
 ![Canon_03](gif/canon_02.gif)
-### Canon example 04
+##
+
+### Canon DSLR Camera 04
 ![Canon_04](gif/canon_03.gif)
+### Canon DSLR Camera 05
 ![Canon_05](gif/canon_04.gif)
+### Canon DSLR Camera 06
 ![Canon_06](gif/canon_05.gif)
+### Canon DSLR Camera 07
 ![Canon_07](gif/canon_06.gif)
+### Canon DSLR Camera 08
 ![Canon_08](gif/canon_07.gif)
+### Canon DSLR Camera 09
 ![Canon_09](gif/canon_08.gif)
+### Canon DSLR Camera 10
 ![Canon_10](gif/canon_09.gif)
+### Canon DSLR Camera 11
 ![Canon_11](gif/canon_10.gif)
+### Canon DSLR Camera 12
 ![Canon_12](gif/canon_11.gif)
+### Canon DSLR Camera 13
 ![Canon_13](gif/canon_12.gif)
+### Canon DSLR Camera 14
 ![Canon_14](gif/canon_13.gif)
 
 ![Pixel_01](gif/pixel_00.gif)

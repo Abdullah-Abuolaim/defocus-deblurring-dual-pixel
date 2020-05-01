@@ -1,8 +1,11 @@
 # Animated dual-pixel L/R views
+### Canon example 01
 ![Canon_01](gif/canon_00.gif)
-## Canon ex. 01
+### Canon example 02
 ![Canon_02](gif/canon_01.gif)
+### Canon example 03
 ![Canon_03](gif/canon_02.gif)
+### Canon example 04
 ![Canon_04](gif/canon_03.gif)
 ![Canon_05](gif/canon_04.gif)
 ![Canon_06](gif/canon_05.gif)

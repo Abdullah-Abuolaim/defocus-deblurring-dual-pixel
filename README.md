@@ -7,12 +7,12 @@ and *[Michael S. Brown](http://www.eecs.yorku.ca/~mbrown/)*<sup>1,2</sup>
 
 ![teaser](teaser.png)
 
-Reference github repository for the paper [Defocus Deblurring Using Dual-Pixel Data](https://). Abdullah Abuolaim and Michael S. Brown, arXiv preprint arXiv:xxxx, 2020. If you use our dataset or code, please cite our paper:
+Reference github repository for the paper [Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/pdf/2005.00305.pdf). Abdullah Abuolaim and Michael S. Brown, arXiv preprint arXiv: 2005.00305, 2020. If you use our dataset or code, please cite our paper:
 ```
 @article{abuolaim2020defocus,
   title={Defocus Deblurring Using Dual-Pixel Data},
   author={Abuolaim, Abdullah and Brown, Michael S},
-  journal={arXiv preprint arXiv:xxxx},
+  journal={arXiv preprint arXiv: 2005.00305},
   year={2020}
 }
 ```

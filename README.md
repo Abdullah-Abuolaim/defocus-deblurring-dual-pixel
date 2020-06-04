@@ -18,4 +18,4 @@ Reference github repository for the paper [Defocus Deblurring Using Dual-Pixel D
 ```
 
 ### Dataset and Code:
-The dataset, code, and trained models will be available soon
+The dataset, code, and trained models will be available soon.

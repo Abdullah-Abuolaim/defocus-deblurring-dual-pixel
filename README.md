@@ -140,7 +140,7 @@ Should you have any question/suggestion, please feel free to reach out:
 [Abdullah Abuolaim](http://www.eecs.yorku.ca/~abuolaim/) (abuolaim@eecs.yorku.ca)
 
 ## Related Links
-* ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)] &nbsp; [[camera-ready](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/defocus_deblurring_eccv_2020.pdf)] &nbsp; [[supplemental material](https://drive.google.com/file/d/1ANQOil6VjOhEDfzxu1Z1H5ZdjpkR4KqJ/view?usp=sharing)]
+* ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)] &nbsp; [[camera-ready](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/defocus_deblurring_eccv_2020.pdf)] &nbsp; [[supp. material](https://drive.google.com/file/d/1ANQOil6VjOhEDfzxu1Z1H5ZdjpkR4KqJ/view?usp=sharing)]
 * ECCV'18 paper: Revisiting Autofocus for Smartphone Cameras &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/)]
 * WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)]
 * ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors &nbsp; [[github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)]

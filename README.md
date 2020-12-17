@@ -143,6 +143,10 @@ Should you have any question/suggestion, please feel free to reach out:
 * [Project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)
 * [ECCV'20 camera-ready paper](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/defocus_deblurring_eccv_2020.pdf)
 * [ECCV'20 camera-ready supplemental material](https://drive.google.com/file/d/1ANQOil6VjOhEDfzxu1Z1H5ZdjpkR4KqJ/view?usp=sharing)
+* [Project page for our ECCV'18 paper "Revisiting Autofocus for Smartphone Cameras"](https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/)
+* [Project page for our WACV'20 paper "Online Lens Motion Smoothing for Video Autofocus"](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)
+* [GitHub page for our ICCP'20 paper "Revisiting Autofocus for Smartphone Cameras"](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)
+* [GitHub page for our arXiv'20 paper "Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data"](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)
 
 ## Reference
 [1] `R. Zhang et al.` R. Zhang, P. Isola, A. A. Efros, E. Shechtman, and O. Wang. *The unreasonable effectiveness of deep features as a perceptual metric.* In CVPR, 2018.

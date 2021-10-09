@@ -9,11 +9,13 @@ and *[Michael S. Brown](http://www.eecs.yorku.ca/~mbrown/)*<sup>1,2</sup>
 
 Reference github repository for the paper [Defocus Deblurring Using Dual-Pixel Data](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/defocus_deblurring_eccv_2020.pdf). Abdullah Abuolaim and Michael S. Brown, Proceedings of the European Conference on Computer Vision (ECCV), 2020. If you use our dataset or code, please cite our paper:
 ```
-@article{abuolaim2020defocus,
-  title={Defocus Deblurring Using Dual-Pixel Data},
+@inproceedings{abuolaim2020defocus,
+  title={Defocus deblurring using dual-pixel data},
   author={Abuolaim, Abdullah and Brown, Michael S},
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-  year={2020}
+  booktitle={European Conference on Computer Vision},
+  pages={111--126},
+  year={2020},
+  organization={Springer}
 }
 ```
 
@@ -145,7 +147,7 @@ Should you have any question/suggestion, please feel free to reach out:
 * WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)]
 * ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors &nbsp; [[github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)]
 * ICCV'21 paper: Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data &nbsp; [[github](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)]
-* arXiv'21 paper: Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning &nbsp; [[github](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)]
+* WACV'22 paper: Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning &nbsp; [[github](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)]
 
 ## Reference
 [1] `R. Zhang et al.` R. Zhang, P. Isola, A. A. Efros, E. Shechtman, and O. Wang. *The unreasonable effectiveness of deep features as a perceptual metric.* In CVPR, 2018.

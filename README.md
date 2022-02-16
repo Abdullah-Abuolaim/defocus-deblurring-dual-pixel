@@ -1,6 +1,6 @@
 # [Defocus Deblurring Using Dual-Pixel Data](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)
 
-*[Abdullah Abuolaim](http://www.eecs.yorku.ca/~abuolaim/)*<sup>1</sup>
+*[Abdullah Abuolaim](http://abuolaim.nowaty.com/)*<sup>1</sup>
 and *[Michael S. Brown](http://www.eecs.yorku.ca/~mbrown/)*<sup>1,2</sup>
 
 <sup>1</sup>York University, Toronto, Canada &nbsp;&nbsp; &nbsp; <sup>2</sup>Samsung AI Center, Toronto, Canada
@@ -139,15 +139,17 @@ We also incorporate the recent learned perceptual image patch similarity (LPIPS)
 
 Should you have any question/suggestion, please feel free to reach out:
 
-[Abdullah Abuolaim](http://www.eecs.yorku.ca/~abuolaim/) (abuolaim@eecs.yorku.ca)
+[Abdullah Abuolaim](http://abuolaim.nowaty.com/) (abuolaim@eecs.yorku.ca)
 
 ## Related Links
-* ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)] &nbsp; [[camera-ready](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/defocus_deblurring_eccv_2020.pdf)] &nbsp; [[supp. material](https://drive.google.com/file/d/1ANQOil6VjOhEDfzxu1Z1H5ZdjpkR4KqJ/view?usp=sharing)]
-* ECCV'18 paper: Revisiting Autofocus for Smartphone Cameras &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/)]
-* WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus &nbsp; [[project page](https://www.eecs.yorku.ca/~abuolaim/wacv_2020_autofocus_lens_motion/)]
-* ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors &nbsp; [[github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)]
-* ICCV'21 paper: Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data &nbsp; [[github](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)]
-* WACV'22 paper: Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning &nbsp; [[github](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)]
+* ECCV'18 paper: Revisiting Autofocus for Smartphone Cameras &nbsp; [[project page](https://abuolaim.nowaty.com/eccv_2018_autofocus/)]
+* WACV'20 paper: Online Lens Motion Smoothing for Video Autofocus &nbsp; [[project page](https://abuolaim.nowaty.com/wacv_2020_autofocus_lens_motion/)] &nbsp; [[presentation](https://www.youtube.com/watch?v=85z075A3rI0)]
+* ICCP'20 paper: Modeling Defocus-Disparity in Dual-Pixel Sensors &nbsp; [[github](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)] &nbsp; [[presentation](https://www.youtube.com/watch?v=Ow2ffrqjPiI)]
+* ECCV'20 paper: Defocus Deblurring Using Dual-Pixel Data &nbsp; [[project page](https://abuolaim.nowaty.com/eccv_2020_dp_defocus_deblurring/)] &nbsp; [[github](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)] &nbsp; [[presentation](https://www.youtube.com/watch?v=xb12cFiB8ww)]
+* ICCV'21 paper: Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data &nbsp; [[github](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)] &nbsp; [[presentation](https://www.youtube.com/watch?v=SxLgE3xwBAQ)]
+* CVPRW'21 paper: NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images: Methods and Results &nbsp; [[pdf](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Abuolaim_NTIRE_2021_Challenge_for_Defocus_Deblurring_Using_Dual-Pixel_Images_Methods_CVPRW_2021_paper.pdf)] &nbsp; [[presentation](https://www.youtube.com/watch?v=OC52DLyz1lU)]
+* WACV'22 paper: Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning &nbsp; [[github](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)] &nbsp; [[presentation](https://www.youtube.com/watch?v=eE9i81D3_Os)]
+* WACVW'22 paper: Multi-View Motion Synthesis via Applying Rotated Dual-Pixel Blur Kernels &nbsp; [[pdf](https://arxiv.org/pdf/2111.07837.pdf)] &nbsp; [[presentation](https://youtu.be/eIquI76r0dw)]
 
 ## Reference
 [1] `R. Zhang et al.` R. Zhang, P. Isola, A. A. Efros, E. Shechtman, and O. Wang. *The unreasonable effectiveness of deep features as a perceptual metric.* In CVPR, 2018.
